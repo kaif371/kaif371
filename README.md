@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @md.kaiful haque
+- 👋 Hi, I’m @md
 - 👀 I’m interested in computer
 - 🌱 I’m currently learning web dev
 - 💞️ I’m looking to collaborate on web development
